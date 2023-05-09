@@ -1,4 +1,5 @@
 # CS_678_NLP-Project
+Because of the large file size, we have uploaded the .zip file. Please unzip the file before continuing.
 ## Dependencies 
 - pytorch=1.6 
 - transformers=3.1.0
